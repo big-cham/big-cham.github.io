@@ -1,21 +1,20 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Homework Completion Plan Lead**  
+**September 2024 – ? | DDL Algorithm**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Responsible for monitoring the trends of homework submission deadlines, coordinating individual homework completion, and ensuring timely submission.   
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
+- Completed the math homework on the last day.
+- Successfully finished all homework except math.
+- Designed an algorithm based on homework deadlines to ensure submission on the night before the due date.
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **作业填补计划负责人**  
+**2024年9月 – ？ | ddl算法**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+负责关注作业提交ddl的发展趋势，统筹规划个体作业空缺填补，确保上机及时接收
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 最后一天完成了数学作业。
+- 成功补完除数学以外的作业。
+- 基于作业ddl，设计了一套算法，确保本人能在截止前一晚提交。 
