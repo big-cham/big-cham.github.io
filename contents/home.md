@@ -1,4 +1,4 @@
-[![big-cham](https://img.shields.io/badge/big-cham-github-blue?logo=github)](https://github.com/big-cham)
+[![big-cham](https://github.com/big-cham)](https://github.com/big-cham)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
