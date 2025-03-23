@@ -1,20 +1,17 @@
-[![big-cham](https://github.com/big-cham)](https://github.com/big-cham)
+[![big-cham](https://img.shields.io/badge/bigcham-github-blue?logo=github)](https://github.com/big-cham)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently a undergraduate student studying in HUST.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2234888359@qq.com</code>  
+<code>u202412872@hust.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**HUST University**,undergraduate student
+• Specialize in slack off(摸鱼)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**NO.1 Middle School Affiliated to Central China Normal University**，华中师大一附中<br>
+• "把方法教给学生，把作业还给学生"
 
 #### Research Interests  
-XX, XX, XX, XX.
+physical, mihoyo, phigros.
