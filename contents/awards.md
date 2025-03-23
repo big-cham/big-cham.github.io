@@ -1,3 +1,4 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 425第一摆烂王, 2025.
+- 上课摸鱼奖，2024.  
+- 资深原神玩家，2024.
+- Outstanding Graduation Thesis, HUST University, 2027. 
