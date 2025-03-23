@@ -1,6 +1,3 @@
-- XXXXXXX论文
+- 《基于ddl系统的一种普适补作业方式猜想》，nonexistent期刊
 
-- XXXXXXX论文
-
-- XXXXXXX论文
 
