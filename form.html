@@ -1,0 +1,36 @@
+<html>
+<head>
+        <title>申请表</title>
+</head>
+<body style="background-color: #98c379;">
+    <h2 style="text-align: center;">申请表</h2>
+<center>
+    <form action=/cgi-bin/post-query method=POST
+ style="background-color: #ffffff; width: 300; text-align: left;padding: 20px; border-radius: 8px;">
+        姓名：<input type="text" name="name" required><br>
+        <p>感兴趣的职位：</p>
+        <label><input type="radio" name="position" value="Web设计人员"> Web设计人员</label><br>
+        <label><input type="radio" name="position" value="Web管理员"> Web 管理人员</label><br>
+        <label><input type="radio" name="position" value="Web开发人员"> Web开发人员</label><br><br>
+
+        <label>其他要求：<br>
+            <textarea name="requirements" rows="4">包括薪水待遇、工作地点等。</textarea>
+        </label><br><br>
+
+        <label><input type="checkbox" name="confirm" checked> 发送确认消息</label><br><br>
+
+        <label>经验：
+            <select name="experience">
+                <option value="no_experience">无经验</option>
+                <option value="1_year">1年</option>
+                <option value="2_years">2年</option>
+                <option value="3_plus_years">3年以上</option>
+            </select>
+        </label><br><br>
+
+        <input type="submit" value="确定">
+        <input type="reset" value="重置">
+    </form>
+
+</body>
+</html>
