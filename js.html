@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript 演示</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        #time {
+            font-size: 24px;
+            margin-top: 20px;
+            color: #333;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body onload="showAlert()">
+
+    <h2>JavaScript 演示</h2>
+
+    <button onclick="changeBackground()">改变背景颜色</button>
+    <p id="time">当前时间：</p>
+
+    <script>
+        // 1. 页面加载时弹出对话框
+        function showAlert() {
+            alert("欢迎来到 JavaScript 演示页面！");
+        }
+
+        // 2. 改变背景颜色
+        function changeBackground() {
+            const colors = ["#ff9999", "#99ff99", "#9999ff", "#ffff99", "#ffcc99"];
+            const randomColor = colors[Math.floor(Math.random() * colors.length)];
+            document.body.style.backgroundColor = randomColor;
+        }
+
+        // 3. 显示当前时间
+        function updateTime() {
+            const now = new Date();
+            const timeString = now.toLocaleTimeString();
+            document.getElementById("time").innerText = "当前时间：" + timeString;
+        }
+        setInterval(updateTime, 1000); // 每秒更新一次时间
+    </script>
+
+</body>
+</html>
